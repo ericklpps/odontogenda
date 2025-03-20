@@ -64,4 +64,6 @@ Node.js
 <br>
 Erick Lopes - 553927
 <br>
-Gabriel Sá Bragança - 554064
+Lucas Bastos - 553771
+<br>
+Marcelo Galli - 553654
